@@ -11,4 +11,5 @@
 #
 
 # Modify default IP
+# 修改默认ip地址 将192.168.1.1替换为192.168.50.5
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
